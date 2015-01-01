@@ -20,7 +20,7 @@ public:
     @return false   Initialize failed, app terminate.
     */
     virtual bool applicationDidFinishLaunching();
-
+    git rm  --cached bookmark.cpp
     /**
     @brief  The function be called when the application enter background
     @param  the pointer of the application
